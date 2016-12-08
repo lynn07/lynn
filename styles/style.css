@@ -1,0 +1,32 @@
+html{
+	font-size:15px;
+	font-family:monospace;
+	background-color:#00539F;
+}
+h1{
+	font-size:60px;
+	text-align:center;
+	margin: 10px;
+	padding:10px 10px;
+	color:#00539F;
+	text-shadow: 3px 3px 1px yellow;/*第一个3表示阴影右边宽，第二个3表示阴影下面宽，1表示阴影颜色深浅数值越大越淡*/
+}
+p{
+	font-size:16px;
+	line-height:2;
+	letter-spacing:1px;
+}
+body{
+	width:600px;
+	margin:0 auto;/*0表示上下无间隙，auto表示左右对称*/
+	background-color:#FF950F;
+	border:3px solid black;
+	padding:0px 20px 20px 20px;/*上右下左的顺序*/
+}
+img{
+	margin: 0 auto;
+	display: block;
+}
+ul{
+	letter-spacing:4px;
+}
